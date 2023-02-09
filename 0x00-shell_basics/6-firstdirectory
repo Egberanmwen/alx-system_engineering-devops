@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -v /tmp/my_first_directory
+
+
