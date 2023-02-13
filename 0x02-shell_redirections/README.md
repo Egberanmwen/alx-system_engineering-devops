@@ -1,2 +1,2 @@
 #!/bin/bash
- Shell redirections readme
+ Shell redirections and filters readme
