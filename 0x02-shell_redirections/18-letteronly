@@ -1,2 +1,2 @@
 #!/bin/bash
- tr Ac Za
+ grep ^[A-Zaz] /etc/ssh/sshd_config
