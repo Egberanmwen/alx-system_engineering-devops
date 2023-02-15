@@ -1,2 +1,2 @@
 #!/bin/bash
- cut -C 1 | pasta -s d  
+ cut -C 1 | pasta -s -d  
