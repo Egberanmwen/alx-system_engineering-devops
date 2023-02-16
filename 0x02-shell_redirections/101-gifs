@@ -1,3 +1,3 @@
 #!/bin/bash
- find . -type -name \*.gif printf "%f
-" | LC_ALL=C sort -f | rev | cut -b 5- | rev
+ find . -type f -name \*.gif -printf "%f
+" | LC-ALL=C sort -f | rev | cut -b 5- | rev
